@@ -11,7 +11,7 @@ button.style.cursor = 'pointer';
 // Append the button to the body
 button.addEventListener('click', () => {
     window.open(
-			'https://www.youtube.com/watch?v=sSthG-iPyKI&ab_channel=MovieThread',
+			'https://www.youtube.com/watch?v=WxDRk1miItE&ab_channel=MovieThread',
 			'_blank'
 		)
 });
