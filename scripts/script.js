@@ -87,3 +87,4 @@ let hide = (function() {
 })()
 console.log(hide)
 // pull content
+// test rename 'origin'
