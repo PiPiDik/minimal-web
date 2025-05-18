@@ -1,5 +1,5 @@
 body {
-	background-color: #1e1e1e; /* Темно-серый фон */
+	background-color: #272222; /* Темно-серый фон */
 	font-family: 'Arial', sans-serif; /* Шрифт для текста */
 	color: rgb(255, green, blue); /* Светло-серый цвет текста */
 	margin: 0;
@@ -18,7 +18,7 @@ h6 {
 }
 
 a {
-	color: #1e90ff; /* Синий цвет ссылок */
+	color: #215588; /* Синий цвет ссылок */
 	text-decoration: none;
 }
 
@@ -29,6 +29,8 @@ a:hover {
 
 p {
 	margin-bottom: 1em; /* Отступ между абзацами */
+	color: green; /* Цвет текста */
+	font-size: 1.1em; /* Размер шрифта */
 }
 
 button {
@@ -47,7 +49,7 @@ button:hover {
 
 input,
 textarea {
-	background-color: #2e2e2e; /* Темный фон для полей ввода */
+	background-color: #af4949; /* Темный фон для полей ввода */
 	color: #e0e0e0; /* Светлый текст */
 	border: 1px solid #444; /* Граница */
 	padding: 10px;
@@ -65,6 +67,6 @@ textarea {
 footer {
 	text-align: center;
 	margin-top: 20px;
-	color: #888; /* Светло-серый текст */
+	color: #a72828; /* Светло-серый текст */
 	font-size: 0.9em;
 }
