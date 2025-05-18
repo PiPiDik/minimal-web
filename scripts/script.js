@@ -86,5 +86,3 @@ let hide = (function() {
 	return str
 })()
 console.log(hide)
-// pull content
-
