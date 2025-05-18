@@ -87,3 +87,12 @@ let hide = (function() {
 })()
 console.log(hide)
 // Taya super puper
+let Taya = 23
+console.log('Taya super puper')
+if (Taya > 20) {
+	console.log('Taya is greater than 20')
+} if (Taya < 20) {
+	console.log('Taya is less than 20')
+} else if (Taya == 20) {
+	console.log('Taya is equal to 20')
+}
